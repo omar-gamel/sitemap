@@ -10,5 +10,5 @@ Most sites are split into two vague categories:
 To automate a sitemap, we can list out URLs we know are unlikely to change, and then use Javascript to take database entries of new pages and add these to our sitemap. Google and others will crawl this sitemap frequently, meaning new URLs are automatically added to Google.
 
 Links: <br/>
-1- https://lukeliutingchun.medium.com/nestjs-generating-a-dynamic-sitemap-1c10943104de <br/>
-2- https://fjolt.com/article/javascript-automated-site-map
+1- https://fjolt.com/article/javascript-automated-site-map <br/>
+2- https://lukeliutingchun.medium.com/nestjs-generating-a-dynamic-sitemap-1c10943104de 
